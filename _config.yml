@@ -1,0 +1,28 @@
+name: comp735tea
+favicon: null
+layout_spectrum: 0.5814225324429572
+typography_spectrum: 0.17396626598201692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7570966291241348
+  lightness: 0.47678828542120755
+  saturation: 0.4817818140145391
+  rhythmicContrast: 0.6427070354111493
+purpose: []
